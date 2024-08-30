@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to FutureTech Innovations on FutureTech Innovations</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to FutureTech Innovations on FutureTech Innovations</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>FutureTech Innovations is a fictional company at the forefront of technological advancements. Our team of visionary scientists and engineers are dedicated to solving the world&amp;rsquo;s most pressing challenges through innovation.</description>
+    </item>
+    <item>
+      <title>Innovation Hub: Group Chat</title>
+      <link>http://localhost:1313/chat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chat/</guid>
+      <description>Welcome to our Innovation Hub! This is where minds meet and ideas flourish. Join the conversation and be part of shaping the future with FutureTech Innovations.</description>
+    </item>
+  </channel>
+</rss>
