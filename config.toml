@@ -1,0 +1,7 @@
+baseURL = "https://futuretech.netlify.com"
+languageCode = "en-us"
+title = "FutureTech Innovations"
+theme = "ananke"
+
+[params]
+  custom_css = ["css/custom.css"]
